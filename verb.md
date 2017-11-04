@@ -1,6 +1,6 @@
 
 
-| unregelmäßiges | sein | spreche  |
+| unregelmäßiges | sein | spreche  | 
 | ---------------|:----:|:--------:|
 | ich            | bin  | spreche  |
 | du             | bist | sprichst |
@@ -11,11 +11,11 @@
 
 
 
-| regelmäßiges   | heißen |   |
-| ---------------|:------:|:-:|
-| ich            | heiße  |  |
-| du             | heißt  |  |
-| es/sie/er      | heißt  |  |
-| wir            | heißen |  |
-| ihr            | heißt  |  |
-| sie/Sie        | heißen |  |
+| regelmäßiges   | heißen | machen  | kommen | gehen |
+| ---------------|:------:|:-------:|:------:|:-----:|
+| ich            | heiße  | mache   | komme  | gehe  |
+| du             | heißt  | machst  | kommst | gehst |
+| es/sie/er      | heißt  | macht   | kommt  | geht  |
+| wir            | heißen | machen  | kommen | gehen |
+| ihr            | heißt  | macht   | kommt  | geht  |
+| sie/Sie        | heißen | machen  | kommen | gehen |
