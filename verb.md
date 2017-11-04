@@ -1,0 +1,2 @@
+unregelmäßiges Verb
+
