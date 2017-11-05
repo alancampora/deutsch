@@ -24,7 +24,7 @@ del sustantivo.
 ## Ich glaube , Vielleicht
 
 Ich glaube = "yo pienso que". Siempre va seguido de una coma, lo que hace que se 
-"reinicie" la posicion de la horacion. Con esto, al no tener en cuenta la posicion 
+"reinicie" la posicion de la oracion. Con esto, al no tener en cuenta la posicion 
 el verbo sigue estando en la segunda. 
 
 Ejemplo: 
