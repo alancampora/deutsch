@@ -7,4 +7,3 @@ libro Tangram aktuel 1.
 ## Unidades
 * [Unidad 1](./unidad-1.md) 
 * [Unidad 2](./unidad-2.md) 
-* [test](test.md) 
