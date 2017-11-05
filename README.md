@@ -144,3 +144,5 @@ Ejemplo en aleman
 
 > Maria nihmt ein Messer(n)   | Maria nihmt das Messer(n)
 
+* tambien podemos notar como cambian radicalmente los generos de las palabras
+entre el español y el aleman.
