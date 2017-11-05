@@ -112,13 +112,13 @@ solo.
 | plural     | -          | -          | -      |
 
 ### Nominativo
-El sujeto de la oracion. 
+El *sujeto* de la oracion. 
 > Das Foto(n)
 
 > Ein Foto
 
 ### Acusativo
-El que recibe la accion del verbo (objeto directo de la oracion). 
+El que *recibe la accion del verbo* (objeto directo de la oracion). 
 Lo que podemos reemplazar por la/el. 
 
 Ejemplo en español
@@ -138,7 +138,7 @@ Podriamos reemplazar "la torta" por "la".
 > Maria lo agarra
 
 Ejemplo en aleman
-> Maria kocht einen Kuchen(m) | Maria kocht der Kuchen(m)
+> Maria kocht einen Kuchen(m) | Maria kocht den Kuchen(m)
 
 > Maria nihmt eine Gabel(f)   | Maria nihmt die Gabel(f)
 
@@ -146,3 +146,16 @@ Ejemplo en aleman
 
 * tambien podemos notar como cambian radicalmente los generos de las palabras
 entre el español y el aleman.
+
+### Dativo
+En este caso, es el *beneficiado por la accion* (objeto indirecto)
+
+> La camara pertenece a la Mujer.
+
+A quien le pertenece la camara? A la mujer, lo podemos reemplazar por "le"
+
+> La camara le pertenece. 
+
+Ejemplo en Aleman 
+
+> Die Kamera gehört der Frau | Die Kamera gehört einer Frau 
