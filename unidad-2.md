@@ -30,7 +30,7 @@ el verbo sigue estando en la segunda.
 Ejemplo: 
 > Ich glaube, Nikos ist zu Hause. 
 
-En cambio, Vielleicht significa "tal vez", y su posicio siempre es la primera, 
+En cambio, Vielleicht significa "tal vez", y su posicion siempre es la primera, 
 por esto tiene que ir seguida del verbo y la oracion puede "sonar" medio rara (por
 lo menos a mi criterio)
 
@@ -42,10 +42,10 @@ Confio en la traduccion de gdocs :P
 
 > *zu Beusch bei* | a visitar a 
 
-> *auf der Meldestelle* | en la oficina de registro
+> *auf der Meldestelle(m)* | en la oficina de registro
 
-> *am Flughafen* | en el aeropuert
+> *am Flughafen(m)* | en el aeropuert
 
-> *zu Hause* | en casa 
+> *zu Hause(f)* | en casa 
 
-> *an der Wohnungstür* | en la puerta
+> *an der Wohnungstür(f)* | en la puerta
