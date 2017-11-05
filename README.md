@@ -105,8 +105,10 @@ Lo que podemos reemplazar por la/el.
 Ejemplo en español
 
 > Maria cocina una torta. 
+
 Que cocina Maria? La torta. Entonces, cumple el rol de Objeto directo. 
 Podriamos reemplazar "la torta" por "la".
+
 > Maria la cocina. 
 
 Ejemplo en aleman
