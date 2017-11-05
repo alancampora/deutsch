@@ -117,14 +117,16 @@ El *sujeto* de la oracion.
 El que *recibe la accion del verbo* (objeto directo de la oracion). 
 Lo que podemos reemplazar por la/el. 
 
-Ejemplo en español
+Ejemplo en español:
 
 > Maria cocina una torta | Maria cocina la torta 
-> Maria la cocina. 
 
-Que cocina Maria? La torta. Entonces, cumple el rol de Objeto directo. 
+Que cocina Maria? La torta. Entonces, cumple el rol de objeto directo. 
 Podriamos reemplazar "la torta" por "la".
 
+> Maria la cocina. 
+
+Mas ejemplos:
 > Maria agarra un cuchillo  | Maria agarra el cuchillo
 
 > Maria lo agarra
