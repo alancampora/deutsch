@@ -17,14 +17,14 @@ libro Tangram aktuel 1.
 
 
 
-| regelmäßiges   | heißen | machen  | kommen | gehen |
-| ---------------|:------:|:-------:|:------:|:-----:|
-| ich            | heiße  | mache   | komme  | gehe  |
-| du             | heißt  | machst  | kommst | gehst |
-| es/sie/er      | heißt  | macht   | kommt  | geht  |
-| wir            | heißen | machen  | kommen | gehen |
-| ihr            | heißt  | macht   | kommt  | geht  |
-| sie/Sie        | heißen | machen  | kommen | gehen |
+| regelmäßiges   | heißen | machen  | kommen | gehen | kochen |
+| ---------------|:------:|:-------:|:------:|:-----:|:-------|
+| ich            | heiße  | mache   | komme  | gehe  | koche  |
+| du             | heißt  | machst  | kommst | gehst | kochst |
+| es/sie/er      | heißt  | macht   | kommt  | geht  | kocht  |
+| wir            | heißen | machen  | kommen | gehen | kochen |
+| ihr            | heißt  | macht   | kommt  | geht  | kocht  |
+| sie/Sie        | heißen | machen  | kommen | gehen | kochen |
 
 
 ## Fragen 
@@ -92,6 +92,24 @@ Dependiendo que rol ocupe la palabra en la oracion,
 los articulos y las preposiciones se declinan en distintos "casos".
 Para esto hay que recordar un poco como analizabamos sintacticamente en la 
 primaria / secundario.
+La siguiente tabla hay que saberla de memoria, hasta que con practica vaya saliendo
+solo.
+
+
+| Genero     | Nominativo | Acusativo  | Dativo | 
+|:----------:|:---------: |:----------:|:------:|
+| masculino  | der        | den        | dem    |
+| femenino   | die        | die        | der    |
+| neutro     | das        | das        | dem    |
+| plural     | die        | die        | den    |
+
+
+| Genero     | Nominativo | Acusativo  | Dativo | 
+|:----------:|:---------: |:----------:|:------:|
+| masculino  | ein        | einen      | einem  |
+| femenino   | eine       | eine       | einer  |
+| neutro     | ein        | ein        | einem  |
+| plural     | -          | -          | -      |
 
 ### Nominativo
 El sujeto de la oracion. 
@@ -104,12 +122,19 @@ Lo que podemos reemplazar por la/el.
 
 Ejemplo en español
 
-> Maria cocina una torta. 
+> Maria cocina una torta | Maria cocina la torta 
+> Maria la cocina. 
 
 Que cocina Maria? La torta. Entonces, cumple el rol de Objeto directo. 
 Podriamos reemplazar "la torta" por "la".
 
-> Maria la cocina. 
+> Maria agarra un cuchillo  | Maria agarra el cuchillo
+> Maria lo agarra
+> Maria agarra un tenedor | Maria agarra el tenedor
+> Maria lo agarra
 
 Ejemplo en aleman
+> Maria kocht einen Kuchen(m) | Maria kocht der Kuchen(m)
+> Maria nihmt eine Gabel(f)   | Maria nihmt die Gabel(f)
+> Maria nihmt ein Messer(n)   | Maria nihmt das Messer(n)
 
