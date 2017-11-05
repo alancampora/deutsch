@@ -1,3 +1,5 @@
+<img src="http://noticias.universia.net.mx/net/images/educacion/a/ap/apr/aprender-aleman.jpg" />
+
 # 🇩🇪 Aprendiendo Deutsch 🇩🇪
 Documentando mi proceso de aprendizaje de aleman. Como base, estoy tomando el 
 libro Tangram aktuel 1.
