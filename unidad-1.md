@@ -52,7 +52,7 @@ El verbo siempre en posicion 2.
 * Wann ist dein geburstag? 
 
 #### Welche (cuales) 
-* Welche Sprachen spricht du? 
+* Welche Sprachen sprichst du? 
 
 #### Wer (quien) 
 * Wer ist sie? 
