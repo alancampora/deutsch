@@ -44,7 +44,7 @@ Confio en la traduccion de gdocs :P
 
 > *auf der Meldestelle(m)* | en la oficina de registro
 
-> *am Flughafen(m)* | en el aeropuert
+> *am Flughafen(m)* | en el aeropuerto
 
 > *zu Hause(f)* | en casa 
 
