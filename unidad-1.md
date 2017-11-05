@@ -39,10 +39,10 @@ El verbo siempre en posicion 2.
 * Woher kommst du? 
 
 #### Wohin (hacia donde)
-* Wohim geht er? 
-* Wohim gehen Sie? 
-* Wohim gehts du? 
-* Wohim möchten Sie? 
+* Wohin geht er? 
+* Wohin gehen Sie? 
+* Wohin gehts du? 
+* Wohin möchten Sie? 
 
 #### Wo (donde)
 * Wo wonht er? 
