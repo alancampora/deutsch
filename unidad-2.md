@@ -4,7 +4,7 @@
 Cada persona tiene su posesivo y se declinanaran dependiendo del genero 
 del sustantivo. 
 
-| Persona        |          | 
+| Persona        | Posesivo | 
 | ---------------|:--------:|
 | ich            | mein/e   |
 | du             | dein/e   |
