@@ -38,7 +38,7 @@ lo menos a mi criterio)
 
 
 ## Vocabulario
-Confio en la traduccion de gdocs :P
+Confio en la traduccion de gdocs
 
 > *zu Beusch bei* | a visitar a 
 
@@ -49,3 +49,9 @@ Confio en la traduccion de gdocs :P
 > *zu Hause(f)* | en casa 
 
 > *an der Wohnungstür(f)* | en la puerta
+
+> Welche *Staatsangehörigkeit* hat er? | Que nacionalidad tiene el? 
+
+> Ich bin *verheiratet* | Yo soy casado
+
+> Ich bin *einzeln* | Yo soy soltero
