@@ -54,4 +54,4 @@ Confio en la traduccion de gdocs
 
 > Ich bin *verheiratet* | Yo soy casado
 
-> Ich bin *einzeln* | Yo soy soltero
+> Ich bin *ledig* | Yo soy soltero
