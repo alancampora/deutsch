@@ -16,6 +16,8 @@ del sustantivo.
 | Sie            | Ihr/e    |
 
 > Was ist *deine* Telefonummer(f) ? 
+
 > Das ist *mein* Auto(n)
+
 > Wie ist *Ihre* Addresse(f) ? 
 
