@@ -1,5 +1,29 @@
 # Unidad 2
 
+## Verbos
+
+
+| unregelmäßiges | nehmen | sehen    | 
+| ---------------|:------:|:--------:|
+| ich            | nehme  | sehe     |
+| du             | nimmst | siehst   |
+| es/sie/er      | nimmt  | sieht    |
+| wir            | nehmen | sehen    |
+| ihr            | nehmt  | seht     |
+| sie/Sie        | nehmen | sehen    |
+
+
+
+| regelmäßiges   | kennen | 
+| ---------------|:------:|
+| ich            | kenne  |
+| du             | kennst |
+| es/sie/er      | kennt  |
+| wir            | kennen |
+| ihr            | kennt  |
+| sie/Sie        | kennen | 
+
+
 ## Posesivos
 Cada persona tiene su posesivo y se declinanaran dependiendo del genero 
 del sustantivo. 
@@ -63,7 +87,9 @@ Estas son maneras de afirmar/negar similitudes con la otra persona.
 ## Vocabulario
 Confio en la traduccion de gdocs
 
-> **zu Beusch bei** | a visitar a 
+> **zu Besuch sein** | estar de visita 
+
+> **zu Besuch kommen** | visitar 
 
 > **auf der Meldestelle(m)** | en la oficina de registro
 
@@ -78,3 +104,5 @@ Confio en la traduccion de gdocs
 > Ich bin **verheiratet** | Yo soy casado
 
 > Ich bin **ledig** | Yo soy soltero
+
+> **Bild**(m) | Cuadro
