@@ -23,7 +23,7 @@ del sustantivo.
 
 ## Ich glaube , Vielleicht
 
-Ich glaube significa "yo pienso que". Esta construccion va siemre seguida de una coma lo que hace que se "reinicie" la posicion de la oracion. Con esto, al no tener en cuenta la posicion el verbo sigue estando en la segunda. 
+Ich glaube significa "yo pienso que". Esta construccion va seguida de una coma lo que hace que se "reinicie" la posicion de la oracion. Con esto, al no tener en cuenta la posicion el verbo sigue estando en la segunda. 
 
 Ejemplo: 
 > Ich glaube, Nikos ist zu Hause. 
