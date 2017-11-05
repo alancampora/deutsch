@@ -1,5 +1,5 @@
 # Deutsch clases
-Documentando mi proceso de aprendizaje de aleman. Como base, esto tomando el 
+Documentando mi proceso de aprendizaje de aleman. Como base, estoy tomando el 
 libro Tangram aktuel 1.
 
 ## Verbos
@@ -34,23 +34,36 @@ El verbo siempre en posicion 2.
 |:--------:|:----:|:------:|:----:|
 |          | Woher| kommen | Sie ?|
 |          | Was  | bist   | du von Beruf?|
-|          | Wie  | heissen | Sie ? |
+|          | Wie  | heißen | Sie ? |
 
 
 ### Preguntas comunes
 #### Woher (de donde)
-* Wo wonht er? 
-* Wo wonhen Sie?
+* Woher kommst du? 
 
-#### Wohin = hacia donde 
+#### Wohin (hacia donde)
 * Wohim geht er? 
 * Wohim gehen Sie? 
 * Wohim gehts du? 
 
-#### Wann = cuando 
+#### Wo (donde)
+* Wo wonht er? 
+* Wo wonhen Sie?
+
+#### Wann (cuando) 
 * Wann ist dein geburstag? 
 
+#### Welche (cuales) 
+* Welche Sprachen spricht du? 
 
+#### Wer (quien) 
+* Wer ist sie? 
+
+#### Was (que) 
+* Was sind Sie von Beruf? 
+
+#### Wie (como) 
+* Wie heißen Sie? 
 
 ### Ja/Nein Frage
 Verbo en posicion 1.
