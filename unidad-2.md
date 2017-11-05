@@ -23,18 +23,19 @@ del sustantivo.
 
 ## Ich glaube , Vielleicht
 
-Ich glaube = "yo pienso que". Siempre va seguido de una coma, lo que hace que se 
-"reinicie" la posicion de la oracion. Con esto, al no tener en cuenta la posicion 
-el verbo sigue estando en la segunda. 
+Ich glaube significa "yo pienso que". Esta construccion va siemre seguida de una coma lo que hace que se "reinicie" la posicion de la oracion. Con esto, al no tener en cuenta la posicion el verbo sigue estando en la segunda. 
 
 Ejemplo: 
 > Ich glaube, Nikos ist zu Hause. 
 
-En cambio, Vielleicht significa "tal vez", y su posicion siempre es la primera, 
-por esto tiene que ir seguida del verbo y la oracion puede "sonar" medio rara (por
-lo menos a mi criterio)
+En cambio, Vielleicht significa "tal vez", y su posicion siempre es la primera.
+Esto hace que tenga que ser seguida del verbo y la oracion puede "sonar" medio rara(por lo menos a mi criterio)
 
 > Vielleicht ist Nikos zu Hause.
+
+Por ultimo, cuando no sabemos, decimos:
+
+> Ich weiße nicht | Yo no se
 
 ## Gemeinsamkeiten (similitudes) Kein, auch , nicht
 Estas son maneras de afirmar/negar similitudes con la otra persona. 
