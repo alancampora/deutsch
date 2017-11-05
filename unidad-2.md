@@ -36,6 +36,28 @@ lo menos a mi criterio)
 
 > Vielleicht ist Nikos zu Hause.
 
+## Gemeinsamkeiten (similitudes) Kein, auch , nicht
+Estas son maneras de afirmar/negar similitudes con la otra persona. 
+
+(+) Coincidencia
+> Persona1: Ich habe zwei Kinder.
+
+> Persona2: Ich *auch*! "Yo tambien"
+
+> Persona1: Ich habe *keine* Kinder.
+
+> Persona2: Ich *auch nicht*. "Yo no tengo"
+
+(-) Sin coincidencia
+
+> Persona1: Ich habe zwei Kinder.
+
+> Persona2: Ich *nicht*. "Yo no"
+
+> Persona1: Ich habe *keine* Kinder.
+
+> Persona2: *Aber nicht*. "Yo tampoco"
+
 
 ## Vocabulario
 Confio en la traduccion de gdocs
