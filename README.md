@@ -114,6 +114,7 @@ solo.
 ### Nominativo
 El sujeto de la oracion. 
 > Das Foto(n)
+
 > Ein Foto
 
 ### Acusativo
@@ -129,12 +130,17 @@ Que cocina Maria? La torta. Entonces, cumple el rol de Objeto directo.
 Podriamos reemplazar "la torta" por "la".
 
 > Maria agarra un cuchillo  | Maria agarra el cuchillo
+
 > Maria lo agarra
+
 > Maria agarra un tenedor | Maria agarra el tenedor
+
 > Maria lo agarra
 
 Ejemplo en aleman
 > Maria kocht einen Kuchen(m) | Maria kocht der Kuchen(m)
+
 > Maria nihmt eine Gabel(f)   | Maria nihmt die Gabel(f)
+
 > Maria nihmt ein Messer(n)   | Maria nihmt das Messer(n)
 
