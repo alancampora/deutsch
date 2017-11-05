@@ -42,38 +42,38 @@ Estas son maneras de afirmar/negar similitudes con la otra persona.
 (+) Coincidencia
 > Persona1: Ich habe zwei Kinder.
 
-> Persona2: Ich *auch*! "Yo tambien"
+> Persona2: Ich **auch**! "Yo tambien"
 
-> Persona1: Ich habe *keine* Kinder.
+> Persona1: Ich habe **keine** Kinder.
 
-> Persona2: Ich *auch nicht*. "Yo no tengo"
+> Persona2: Ich **auch nicht**. "Yo no tengo"
 
 (-) Sin coincidencia
 
 > Persona1: Ich habe zwei Kinder.
 
-> Persona2: Ich *nicht*. "Yo no"
+> Persona2: Ich **nicht**. "Yo no"
 
-> Persona1: Ich habe *keine* Kinder.
+> Persona1: Ich habe **keine** Kinder.
 
-> Persona2: *Aber nicht*. "Yo tampoco"
+> Persona2: **Aber nicht**. "Yo tampoco"
 
 
 ## Vocabulario
 Confio en la traduccion de gdocs
 
-> *zu Beusch bei* | a visitar a 
+> **zu Beusch bei** | a visitar a 
 
-> *auf der Meldestelle(m)* | en la oficina de registro
+> **auf der Meldestelle(m)** | en la oficina de registro
 
-> *am Flughafen(m)* | en el aeropuerto
+> **am Flughafen(m)** | en el aeropuerto
 
-> *zu Hause(f)* | en casa 
+> **zu Hause(f)** | en casa 
 
-> *an der Wohnungstür(f)* | en la puerta
+> **an der Wohnungstür(f)** | en la puerta
 
-> Welche *Staatsangehörigkeit* hat er? | Que nacionalidad tiene el? 
+> Welche **Staatsangehörigkeit** hat er? | Que nacionalidad tiene el? 
 
-> Ich bin *verheiratet* | Yo soy casado
+> Ich bin **verheiratet** | Yo soy casado
 
-> Ich bin *ledig* | Yo soy soltero
+> Ich bin **ledig** | Yo soy soltero
