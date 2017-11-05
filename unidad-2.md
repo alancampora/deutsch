@@ -61,6 +61,24 @@ Por ultimo, cuando no sabemos, decimos:
 
 > Ich weiße nicht | Yo no se
 
+### Algunos ejemplos usando kein
+
+> Ich glaube, das ist ein Formular(n) - Das ist doch kein Formular. "Formulario"
+
+> Vielleicht sin das Bilder(n/p) - Das sind doch keine Bilder. "Cuadro"
+
+> Das ist eine Tabelle(f) - Das ist doch keine Tabelle  "Tabla"
+
+> Ich glaube, das sind Dialoge(m/p) - Das sind doch keine Dialoge.
+
+> Vielleicht sind das Zahlen(f/p) - Das sind doch keine Zahlen
+
+> Das ist ein Lesetext(m) - Das ist doch kein Lesetext
+
+> Vielleicht ist das eine Kursliste(f) - Das ist doch keine Kurseliste
+
+> Ich glaube, das ist ein Lied(n) - Das ist noch kein Lied
+
 ## Gemeinsamkeiten (similitudes) Kein, auch , nicht
 Estas son maneras de afirmar/negar similitudes con la otra persona. 
 
@@ -106,3 +124,5 @@ Confio en la traduccion de gdocs
 > Ich bin **ledig** | Yo soy soltero
 
 > **Bild**(m) | Cuadro
+
+

@@ -114,6 +114,15 @@ solo.
 | neutro     | ein        | ein        | einem  |
 | plural     | -          | -          | -      |
 
+
+Para la negacion, usamos kein. Lo unico que agregamos es una k adelante.
+
+Para el plural es:
+> Nominativo: keine
+> Acusativo:keine
+> Dativo: keinen
+
+
 ### Nominativo
 El *sujeto* de la oracion. 
 > Das Foto(n)
