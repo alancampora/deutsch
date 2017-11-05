@@ -74,14 +74,21 @@ Verbo en posicion 1.
 
 ## Vocabulario
 der(die)    
-* Arzt (in) | Doctor/Doctora
-* Pilot (in)| Piloto
-* Kellner (in) | Camarero/Camarera
-* Ingenieur (in) | Ingeniero/Ingeniera
-* Friseur (in) | Peluquero/Peluquera
-* Flugbegleiter (in) | Asistente de vuelo
-* Fahrer (in) | Chofer
-* Lehrer (in) | Profesor
+> **Arzt** (in) | Doctor/Doctora
+
+> **Pilot** (in)| Piloto
+
+> **Kellner** (in) | Camarero/Camarera
+
+> **Ingenieur** (in) | Ingeniero/Ingeniera
+
+>  **Friseur** (in) | Peluquero/Peluquera
+
+> **Flugbegleiter** (in) | Asistente de vuelo
+
+> **Fahrer** (in) | Chofer
+
+> **Lehrer** (in) | Profesor
 
 ## Casos
 Dependiendo que rol ocupe la palabra en la oracion, 
