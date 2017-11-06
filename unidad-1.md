@@ -173,3 +173,25 @@ A quien le pertenece la camara? A la mujer, lo podemos reemplazar por "le"
 Ejemplo en Aleman 
 
 > Die Kamera gehört der Frau(m) | Die Kamera gehört einer Frau(m) 
+
+### Preposiciones
+Las preposiciones tambien pueden ayudarnos a darnos cuenta del "caso". 
+
+### Aus con los paises
+El aus siempre es dativo. 
+
+Paises especiales (los demas no llevan articulo):
+
+> die Schweiz(f)
+
+> die Türkei(f)
+
+> die Niederlande(p)
+
+> die USA
+
+Ejemplos: 
+> Ich komme **aus der** Schweiz | Ich komme **aus der** Türkei
+
+> Ich komme **aus den** USA | Ich komme **aus den** Niederlande**n**
+
