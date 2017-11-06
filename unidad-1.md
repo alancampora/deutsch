@@ -188,7 +188,7 @@ Paises especiales (los demas no llevan articulo):
 
 > die Niederlande(p)
 
-> die USA
+> die USA(p)
 
 Ejemplos: 
 > Ich komme **aus der** Schweiz | Ich komme **aus der** Türkei
