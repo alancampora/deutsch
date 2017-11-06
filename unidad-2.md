@@ -125,4 +125,48 @@ Confio en la traduccion de gdocs
 
 > **Bild**(m) | Cuadro
 
+### Comida
+
+| m         | f           | n            | 
+|:---------:|:-----------:|:------------:|
+| Kaffe     | Cola        | Bier         |
+| Orangesaft| Gulashsuppe | Ei           |
+| Rotwein   | Schinkenbrot| Hähnchen     |
+| Salat     |             | Käsebrot     |
+| Tee       |  Würstchen  | Mineralwasser|
+|           |             | Stückt Kuchen|
+
+> Hähnchen | Pollo 
+
+> Käsebrot | Pan de queso 
+
+> Schinkenbrot | Sandwich de jamon
+
+> Würstchen | pancho
+
+#### Verbos que suelen ser utilizados 
+
+> Ich *möchte* einen Kaffe | Me gustaria un cafe
+
+> Ich *nehme* eine Cola | Yo quiero una Cola
+
+> Ich *bestelle* ein Bier | Yo ordeno una Cerveza 
+ 
+> Ich *trinke* ein Bier  | Yo tomo una Cerveza
+
+#### Dialogo
+
+> Kellner: Was möchten Sie ? | Was darf's denn sein? | Ja, bitte
+
+> Person: Ich nehme / möchte
+
+> Kellner: Und was trinken Sie?  
+
+> Person: Ich nehme / trinke
+
+> Kellner: Tut mir leid, wir haben kein... mehr. Möchten Sie veilleicht ...?
+
+> Person: Ja / Nein, dann nehme ich..
+
+
 
